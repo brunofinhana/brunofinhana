@@ -1,5 +1,8 @@
 ## Hello! Welcome to my GitHub profile 👋
 
+![image](https://github.com/user-attachments/assets/82d14d34-a2bd-4730-a43f-aa4971b0e0f7)
+
+
 I'm Bruno, and I'm switching careers from Design to Software Engineering!
 
 - 🧑🏻‍🎓 I'm currently graduating from Software Engineering
