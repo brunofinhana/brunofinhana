@@ -1,8 +1,24 @@
 ## Hello! Welcome to my GitHub profile 👋
 
-![image](https://github.com/user-attachments/assets/82d14d34-a2bd-4730-a43f-aa4971b0e0f7)
+<table>
+  <tr style="border: none">
+    <td><img src="https://github.com/user-attachments/assets/82d14d34-a2bd-4730-a43f-aa4971b0e0f7" width="300"></td>
+    <td>
+      I'm Bruno, and I'm switching careers from Design to Software Engineering!<br><br>
+      
+- 🎓 I'm currently graduating from Software Engineering
+- 💼 I'm currently working as a Systems Analyst
+- 🌱 I'm currently focused on learning React and AI-assisted Software Development
+- ✉️ How to reach me: Email: finhana.bruno@gmail.com | Linkedin: brunofinhana
+- 🧔🏻‍♂️ Pronouns: He/Him
+- 🤓 _Fun fact: I'm colorblind and I graduated from Graphic Design_
+    </td>
+  </tr>
+</table>
+<!-- ![image](https://github.com/user-attachments/assets/82d14d34-a2bd-4730-a43f-aa4971b0e0f7) -->
+<!-- <img src="https://github.com/user-attachments/assets/82d14d34-a2bd-4730-a43f-aa4971b0e0f7" width="300"> -->
 
-
+<!--
 I'm Bruno, and I'm switching careers from Design to Software Engineering!
 
 - 🧑🏻‍🎓 I'm currently graduating from Software Engineering
@@ -11,6 +27,7 @@ I'm Bruno, and I'm switching careers from Design to Software Engineering!
 - ✉️ How to reach me: Email: finhana.bruno@gmail.com | [Linkedin]([url](https://www.linkedin.com/in/brunofinhana/))
 - 🧔🏻‍♂️ Pronouns: He/Him
 - 🤓 _Fun fact: I'm colorblind and I graduated from Graphic Design_
+-->
 
 <!--
 **brunofinhana/brunofinhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
