@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello! Welcome to my GitHub profile 👋
+
+I'm Bruno, and I'm switching careers from Design to Software Engineering!
+
+- 🧑🏻‍🎓 I'm currently graduating from Software Engineering
+- 💼 I'm currently working as a Systems Analyst
+- 🌱 I'm currently focused on learning React and AI-assisted Software Development
+- ✉️ How to reach me: Email: finhana.bruno@gmail.com | [Linkedin]([url](https://www.linkedin.com/in/brunofinhana/))
+- 🧔🏻‍♂️ Pronouns: He/Him
+- 🤓 _Fun fact: I'm colorblind and I graduated from Graphic Design_
 
 <!--
 **brunofinhana/brunofinhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
